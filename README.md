@@ -8,12 +8,16 @@
 2-bit 4x1 multiplexer by structural description 
 
 # code_detector
+![image](https://user-images.githubusercontent.com/54186647/63215683-3a91c480-c165-11e9-9e05-bbcdc8eec562.png)
+
 code detector controller by behavioral description
 
 Simulate it with my Testbench 
 
 # barrel-shifter
-Design 32-bit Barrel Shifter by Verilog description.
+![image](https://user-images.githubusercontent.com/54186647/63215699-68770900-c165-11e9-9935-5ff9cdc91c59.png)
+
+Design 32-bit Barrel Shifter by Verilog description without using built-in shift operators (>> , <<)  
 
 behavioral & structural description together
 
